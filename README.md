@@ -1,3 +1,4 @@
+![landing-page](https://user-images.githubusercontent.com/100278218/174496144-5519e36b-89ba-4b8f-af30-1d5e98e7d5fe.png)
 ## Landing Page
 
 Created for Udacity as part of a Front End Development Nanodegree.
