@@ -1,4 +1,4 @@
-Landing Page
+## Landing Page
 
 Created for Udacity as part of a Front End Development Nanodegree.
 
